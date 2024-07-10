@@ -19,10 +19,11 @@ Nous avons imbriqué `une citation`ici
 
 # Code dans MarkDown
 
-Pour faire un commit
-'''
+Pour faire un commit  
+
+'''  
 git status  
 git add -A  
-git commit -m "Nom du commit"
+git commit -m "Nom du commit"  
 '''
 
