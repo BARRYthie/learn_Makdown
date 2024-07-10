@@ -21,9 +21,9 @@ Nous avons imbriqué `une citation`ici
 
 Pour faire un commit  
 
-'''
+```
 git status  
 git add -A  
 git commit -m "Nom du commit"  
-'''
+``` 
 
