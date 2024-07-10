@@ -12,3 +12,7 @@ Nous avons un__un texte__qui est à la fois en gras et simple
 *Texte italique*  
 J'adore *Git et GitHub*  
 ~~Oups c'est une erreur~~  
+
+# Citations
+> Nous avons une citation  
+Nous avons imbriqué `une citation`ici  
