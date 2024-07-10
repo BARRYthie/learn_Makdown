@@ -14,6 +14,15 @@ J'adore *Git et GitHub*
 ~~Oups c'est une erreur~~  
 
 # Citations
-> Nous avons une citation
+> Nous avons une citation  
+Nous avons imbriqué `une citation`ici  
 
-Nous avons imbriqué `une citation` ici  
+# Code dans MarkDown
+
+Pour faire un commit
+'''
+git status  
+git add -A  
+git commit -m "Nom du commit"
+'''
+
