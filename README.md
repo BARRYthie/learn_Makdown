@@ -6,9 +6,9 @@
 ### Petit Titre
 
 # Style de Texte
-Texte simple
-** Ceci est un texte en gras **
-Nous avons un__un texte__qui est à la fois en gras et simple
-*Texte italique*
-J'adore *Git et GitHub*
-~~Oups c'est une erreur~~
+Texte simple  
+** Ceci est un texte en gras **  
+Nous avons un__un texte__qui est à la fois en gras et simple  
+*Texte italique*  
+J'adore *Git et GitHub*  
+~~Oups c'est une erreur~~  
