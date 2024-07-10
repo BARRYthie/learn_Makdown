@@ -14,5 +14,6 @@ J'adore *Git et GitHub*
 ~~Oups c'est une erreur~~  
 
 # Citations
-> Nous avons une citation  
-Nous avons imbriqué `une citation`ici  
+> Nous avons une citation
+
+Nous avons imbriqué `une citation` ici  
